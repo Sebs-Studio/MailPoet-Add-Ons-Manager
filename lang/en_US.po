@@ -1,0 +1,326 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet Add-Ons Manager\n"
+"POT-Creation-Date: 2014-01-06 15:01+0100\n"
+"PO-Revision-Date: 2014-01-06 18:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: Seb's Studio <sebastien@sebs-studio.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: mailpoet-add-ons.php:73 mailpoet-add-ons.php:132
+#: screens/screen-add-ons.php:6
+msgid "MailPoet Add-ons"
+msgstr ""
+
+#: mailpoet-add-ons.php:74
+msgid "Add-ons"
+msgstr ""
+
+#: mailpoet-add-ons.php:135
+msgid ""
+"Here are many free and premium add on extensions that you can install and "
+"purchase for MailPoet. Simply install and activate the plugin of your choice."
+msgstr ""
+
+#: mailpoet-add-ons.php:137
+msgid "Add-ons Version"
+msgstr ""
+
+#: mailpoet-add-ons.php:226
+msgid "has been activated."
+msgstr ""
+
+#: mailpoet-add-ons.php:256
+msgid "has been de-activated."
+msgstr ""
+
+#: mailpoet-add-ons.php:272
+#, php-format
+msgid ""
+"MailPoet Add-Ons requires MailPoet. Please install and activate <a href=\"%s"
+"\">MailPoet</a> first."
+msgstr ""
+
+#: classes/class-mailpoet-screen.php:93
+msgid "Add-Ons"
+msgstr ""
+
+#: classes/class-mailpoet-screen.php:95
+msgid "Help"
+msgstr ""
+
+#: include/add-ons-list.php:8
+msgid "WooCommerce: Subscribe on Checkout"
+msgstr ""
+
+#: include/add-ons-list.php:11 include/add-ons-list.php:25
+#: include/add-ons-list.php:52
+msgid ""
+"Adds a checkbox on checkout page for your customers to subscribe to your "
+"MailPoet newsletters."
+msgstr ""
+
+#: include/add-ons-list.php:22
+msgid "Jigoshop: Subscribe on Checkout"
+msgstr ""
+
+#: include/add-ons-list.php:36
+msgid "Gravity Forms: Subscribe Add-on"
+msgstr ""
+
+#: include/add-ons-list.php:39
+msgid ""
+"Adds a new field to add to your forms so your visitors can subscriber to "
+"your MailPoet newsletters."
+msgstr ""
+
+#: include/add-ons-list.php:49
+msgid "WP e-Commerce: Subscribe on Checkout"
+msgstr ""
+
+#: include/add-ons-list.php:63
+msgid "Restrict Content Pro: Registration Add-on"
+msgstr ""
+
+#: include/add-ons-list.php:66
+msgid ""
+"Add a checkbox on the registration form of this plugin so your new users "
+"join a list of your choice."
+msgstr ""
+
+#: include/add-ons-list.php:76
+msgid "Contact Form 7: MailPoet Add-on"
+msgstr ""
+
+#: include/add-ons-list.php:79
+msgid ""
+"Add of checkbox in your forms, and choose which lists the user gets added to."
+msgstr ""
+
+#: include/add-ons-list.php:91
+msgid "WangGuard - MailPoet Connector"
+msgstr ""
+
+#: include/add-ons-list.php:94
+msgid ""
+"Verify MailPoet subscribers before adding them to your MailPoet subscribers "
+"list by checking against the WangGuard service that each new subscriber is "
+"not reported as a known Splogger or unwanted user."
+msgstr ""
+
+#: include/add-ons-list.php:95
+msgid "If you have this problem, then this is your solution. Totally free too."
+msgstr ""
+
+#: include/add-ons-list.php:107
+msgid "IssueM - Leaky Paywall - MailPoet Add-on"
+msgstr ""
+
+#: include/add-ons-list.php:110
+msgid ""
+"Leaky Paywall is a Premium plugin to put content behind a paywall. This add-"
+"on manages your customers' customers subscriptions."
+msgstr ""
+
+#: include/add-ons-list.php:123
+msgid "OptinMonster: Slick Forms"
+msgstr ""
+
+#: include/add-ons-list.php:126
+msgid ""
+"Put a subscription form in a popup, footer bar or slide-in to add "
+"subscribers with this Premium plugin."
+msgstr ""
+
+#: include/add-ons-list.php:127
+msgid "The authors have done a pretty awesome job."
+msgstr ""
+
+#: include/add-ons-list.php:136
+msgid "No coupon available."
+msgstr ""
+
+#: include/add-ons-list.php:140
+msgid "Pippity: Form in a Popup"
+msgstr ""
+
+#: include/add-ons-list.php:143
+msgid "This Premium plugin allows you to add a MailPoet form in a popup."
+msgstr ""
+
+#: include/add-ons-list.php:144
+msgid "You'll need to know CSS to design it to your taste."
+msgstr ""
+
+#: include/add-ons-list.php:157
+msgid "Hybrid Connect: Forms and Facebook"
+msgstr ""
+
+#: include/add-ons-list.php:160
+msgid ""
+"This Premium plugin allows you to add MailPoet's forms in many places, and "
+"in Facebook."
+msgstr ""
+
+#: include/add-ons-list.php:161
+msgid "Very powerful, if not a quirky user interface."
+msgstr ""
+
+#: include/add-ons-list.php:174
+msgid "Magic Action Box: Pretty forms in post"
+msgstr ""
+
+#: include/add-ons-list.php:177
+msgid ""
+"This free plugin allows you to design and position a form at the beginning "
+"or bottom of a post."
+msgstr ""
+
+#: include/add-ons-list.php:178
+msgid "It's free, and has proven popular with our users."
+msgstr ""
+
+#: include/add-ons-list.php:191
+msgid "Optin Revolution: Popup form"
+msgstr ""
+
+#: include/add-ons-list.php:194
+msgid "This free plugin allows you to put a form in a popup, that's it."
+msgstr ""
+
+#: include/add-ons-list.php:195
+msgid "This is the free version of a more powerful Premium version."
+msgstr ""
+
+#: include/add-ons-list.php:208
+msgid "Ultimate Coming Soon Page"
+msgstr ""
+
+#: include/add-ons-list.php:211
+msgid ""
+"Your new site is not yet launched? Put a coming soon page with a form to "
+"capture emails with this Premium plugin."
+msgstr ""
+
+#: include/add-ons-list.php:212
+msgid "A well designed plugin for a simple idea."
+msgstr ""
+
+#: include/add-ons-list.php:225
+msgid "Easy Digital Downloads - MailPoet"
+msgstr ""
+
+#: include/add-ons-list.php:228
+msgid ""
+"This extension integrates Easy Digital Downloads with MailPoet by providing "
+"an option for your customers to signup for your newsletter while purchasing "
+"from your digital store."
+msgstr ""
+
+#: include/add-ons-list.php:243
+msgid "Ninja Forms"
+msgstr ""
+
+#: include/add-ons-list.php:246
+msgid ""
+"Quickly create newsletter signup forms for your MailPoet mailing lists using "
+"the power and flexibility that Ninja Forms provides."
+msgstr ""
+
+#: include/themes-list.php:11 include/themes-list.php:20
+msgid ""
+"Add a checkbox for your customers to subscribe to Wysija newsletters during "
+"checkout."
+msgstr ""
+
+#: include/themes-list.php:29
+msgid ""
+"Add a checkbox for your customers to subscribe to Wysija newsletters to your "
+"forms"
+msgstr ""
+
+#: include/themes-list.php:37 include/themes-list.php:45
+#: include/themes-list.php:54
+msgid "Description of the add-on goes here."
+msgstr ""
+
+#: screens/screen-add-ons.php:42 screens/screen-add-ons.php:109
+#, php-format
+msgid "MailPoet says:&nbsp;<em>%s</em>"
+msgstr ""
+
+#: screens/screen-add-ons.php:47 screens/screen-add-ons.php:114
+msgid "Website"
+msgstr ""
+
+#: screens/screen-add-ons.php:48
+msgid "Download Plugin"
+msgstr ""
+
+#: screens/screen-add-ons.php:50 screens/screen-add-ons.php:126
+msgid "Install from WordPress.org"
+msgstr ""
+
+#: screens/screen-add-ons.php:51 screens/screen-add-ons.php:131
+#: screens/screen-themes.php:35 screens/screen-themes.php:78
+msgid "Activate"
+msgstr ""
+
+#: screens/screen-add-ons.php:52 screens/screen-add-ons.php:132
+#: screens/screen-themes.php:36 screens/screen-themes.php:79
+msgid "Deactivate"
+msgstr ""
+
+#: screens/screen-add-ons.php:53 screens/screen-add-ons.php:133
+#: screens/screen-themes.php:37 screens/screen-themes.php:80
+msgid "Configure"
+msgstr ""
+
+#: screens/screen-add-ons.php:67
+#, php-format
+msgid ""
+"Don't see the add-on you're looking for? <a href=\"%s\" target=\"_blank"
+"\">Submit it</a> in our contact form."
+msgstr ""
+
+#: screens/screen-add-ons.php:71
+msgid "Works with MailPoet"
+msgstr ""
+
+#: screens/screen-add-ons.php:72
+msgid ""
+"This list of plugins and services that might be useful to you. We don't "
+"offer support for them, and we're not affiliated with them."
+msgstr ""
+
+#: screens/screen-add-ons.php:117 screens/screen-themes.php:77
+msgid "Purchase"
+msgstr ""
+
+#: screens/screen-themes.php:7
+msgid "Available Themes"
+msgstr ""
+
+#: screens/screen-themes.php:34
+msgid "Install"
+msgstr ""
+
+#: screens/screen-themes.php:48
+#, php-format
+msgid ""
+"Want to create your own theme? <a href=\"%s\" target=\"_blank\">Download</a> "
+"the photoshop theme guide to start making your own. <a href=\"%s\" target="
+"\"_blank\">See instructions</a> for more details."
+msgstr ""
+
+#: screens/screen-themes.php:50
+msgid "Third Party Themes"
+msgstr ""
