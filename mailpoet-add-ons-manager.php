@@ -97,7 +97,7 @@ class MailPoet_Add_ons {
 	 */
 	function init_mail_poet_add_ons(){
 		// Setup localization.
-		load_plugin_textdomain(self::slug, false, dirname(plugin_basename(__FILE__)).'/lang');
+		load_plugin_textdomain(self::slug, false, dirname(plugin_basename(__FILE__)).'/languages');
 
 		// Load JavaScript and stylesheets.
 		$this->register_scripts_and_styles();
