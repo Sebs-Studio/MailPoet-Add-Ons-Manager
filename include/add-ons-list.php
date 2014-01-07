@@ -5,7 +5,7 @@
 
 $available_add_ons = array(
 	array(
-		'name' 				=> __('WooCommerce: Subscribe on Checkout'),
+		'name' 				=> 'WooCommerce: Subscribe on Checkout',
 		'search' 			=> 'MailPoet WooCommerce Add-on',
 		'thumbnail' 		=> 'woocommerce.png',
 		'description' 		=> __('Adds a checkbox on checkout page for your customers to subscribe to your MailPoet newsletters.'),
@@ -19,12 +19,12 @@ $available_add_ons = array(
 		'requires' 			=> 'woocommerce/woocommerce.php',
 	),
 	array(
-		'name' 				=> __('Jigoshop: Subscribe on Checkout'),
+		'name' 				=> 'Jigoshop: Subscribe on Checkout',
 		'search' 			=> 'MailPoet Jigoshop Add-on',
 		'thumbnail' 		=> 'jigoshop.png',
 		'description' 		=> __('Adds a checkbox on checkout page for your customers to subscribe to your MailPoet newsletters.'),
 		'plugin_url' 		=> 'mailpoet-jigoshop-addon/mailpoet-jigoshop-addon.php',
-		'version' 			=> '1.0.1',
+		'version' 			=> '1.0.2',
 		'config_url' 		=> 'admin.php?page=jigoshop_settings&tab=mailpoet',
 		'official' 			=> 'yes',
 		'on_wordpress.org' 	=> 'yes',
@@ -33,7 +33,7 @@ $available_add_ons = array(
 		'requires' 			=> 'jigoshop/jigoshop.php',
 	),
 	array(
-		'name' 				=> __('Gravity Forms: Subscribe Add-on'),
+		'name' 				=> 'Gravity Forms: Subscribe Add-on',
 		'search' 			=> 'MailPoet Gravity Forms Add-on',
 		'thumbnail' 		=> 'gravity-forms.png',
 		'description' 		=> __('Adds a new field to add to your forms so your visitors can subscriber to your MailPoet newsletters.'),
@@ -46,7 +46,7 @@ $available_add_ons = array(
 		'requires' 			=> 'gravityforms/gravityforms.php',
 	),
 	array(
-		'name' 				=> __('WP e-Commerce: Subscribe on Checkout'),
+		'name' 				=> 'WP e-Commerce: Subscribe on Checkout',
 		'search' 			=> 'MailPoet WP e-Commerce Add-on',
 		'thumbnail' 		=> 'wp-e-commerce.png',
 		'description' 		=> __('Adds a checkbox on checkout page for your customers to subscribe to your MailPoet newsletters.'),
@@ -60,7 +60,7 @@ $available_add_ons = array(
 		'requires' 			=> 'wp-e-commerce/wp-shopping-cart.php',
 	),
 	array(
-		'name' 				=> __('Restrict Content Pro: Registration Add-on'),
+		'name' 				=> 'Restrict Content Pro: Registration Add-on',
 		'search' 			=> 'Restrict Content Pro Wysija',
 		'thumbnail' 		=> 'pippins.png',
 		'description' 		=> __('Add a checkbox on the registration form of this plugin so your new users join a list of your choice.'),
@@ -73,7 +73,7 @@ $available_add_ons = array(
 		'requires' 			=> 'restrict-content-pro/restrict-content-pro.php',
 	),
 	array(
-		'name' 				=> __('Contact Form 7: MailPoet Add-on'),
+		'name' 				=> 'Contact Form 7: MailPoet Add-on',
 		'search' 			=> 'MailPoet Contact Form 7',
 		'thumbnail' 		=> 'cf7.png',
 		'description' 		=> __('Add of checkbox in your forms, and choose which lists the user gets added to.'),
@@ -88,7 +88,7 @@ $available_add_ons = array(
 	),
 	
 	array(
-		'name' 				=> __('WangGuard - MailPoet Connector'),
+		'name' 				=> 'WangGuard - MailPoet Connector',
 		'search' 			=> 'WangGuard - Wysija Newsletter Connector',
 		'thumbnail' 		=> 'wangguard.png',
 		'description' 		=> __('Verify MailPoet subscribers before adding them to your MailPoet subscribers list by checking against the WangGuard service that each new subscriber is not reported as a known Splogger or unwanted user.'),
@@ -104,7 +104,7 @@ $available_add_ons = array(
 	),
 	
 	array(
-		'name' 				=> __('IssueM - Leaky Paywall - MailPoet Add-on'),
+		'name' 				=> 'IssueM - Leaky Paywall - MailPoet Add-on',
 		'search' 			=> 'IssueM - Leaky Paywall - MailPoet Add-on',
 		'thumbnail' 		=> 'leakypw.png',
 		'description' 		=> __('Leaky Paywall is a Premium plugin to put content behind a paywall. This add-on manages your customers\' customers subscriptions.'),
@@ -120,7 +120,7 @@ $available_add_ons = array(
 	/* Below is the list of services that work with MailPoet */
 	
 	array(
-		'name' 				=> __('OptinMonster: Slick Forms'),
+		'name' 				=> 'OptinMonster: Slick Forms',
 		'search' 			=> 'OptinMonster: slick forms',
 		'thumbnail' 		=> 'optinmonster.png',
 		'description' 		=> __('Put a subscription form in a popup, footer bar or slide-in to add subscribers with this Premium plugin.'),
@@ -137,7 +137,7 @@ $available_add_ons = array(
 	),
 	
 	array(
-		'name' 				=> __('Pippity: Form in a Popup'),
+		'name' 				=> 'Pippity: Form in a Popup',
 		'search' 			=> 'Pippity: form in a popup',
 		'thumbnail' 		=> 'pippity.png',
 		'description' 		=> __('This Premium plugin allows you to add a MailPoet form in a popup.'),
@@ -154,7 +154,7 @@ $available_add_ons = array(
 	),
 	
 	array(
-		'name' 				=> __('Hybrid Connect: Forms and Facebook'),
+		'name' 				=> 'Hybrid Connect: Forms and Facebook',
 		'search' 			=> 'Hybrid Connect: forms and Facebook',
 		'thumbnail' 		=> 'hybrid-connect.png',
 		'description' 		=> __('This Premium plugin allows you to add MailPoet\'s forms in many places, and in Facebook.'),
@@ -171,7 +171,7 @@ $available_add_ons = array(
 	),
 	
 	array(
-		'name' 				=> __('Magic Action Box: Pretty forms in post'),
+		'name' 				=> 'Magic Action Box: Pretty forms in post',
 		'search' 			=> 'Magic Action Box: pretty forms in post',
 		'thumbnail' 		=> 'magic-action-box.png',
 		'description' 		=> __('This free plugin allows you to design and position a form at the beginning or bottom of a post.'),
@@ -188,7 +188,7 @@ $available_add_ons = array(
 	),
 	
 	array(
-		'name' 				=> __('Optin Revolution: Popup form'),
+		'name' 				=> 'Optin Revolution: Popup form',
 		'search' 			=> 'Optin Revolution: popup form',
 		'thumbnail' 		=> 'optin-revolution.png',
 		'description' 		=> __('This free plugin allows you to put a form in a popup, that\'s it.'),
@@ -205,7 +205,7 @@ $available_add_ons = array(
 	),
 	
 	array(
-		'name' 				=> __('Ultimate Coming Soon Page'),
+		'name' 				=> 'Ultimate Coming Soon Page',
 		'search' 			=> 'Ultimate Coming Soon Page',
 		'thumbnail' 		=> 'ultimate-coming-soon.png',
 		'description' 		=> __('Your new site is not yet launched? Put a coming soon page with a form to capture emails with this Premium plugin.'),
@@ -222,7 +222,7 @@ $available_add_ons = array(
 	),
 	
 	array(
-		'name' 				=> __('Easy Digital Downloads - MailPoet'),
+		'name' 				=> 'Easy Digital Downloads - MailPoet',
 		'search' 			=> 'Easy Digital Downloads - MailPoet',
 		'thumbnail' 		=> 'easy-digital-downloads.png',
 		'description' 		=> __('This extension integrates Easy Digital Downloads with MailPoet by providing an option for your customers to signup for your newsletter while purchasing from your digital store.'),
@@ -240,7 +240,7 @@ $available_add_ons = array(
 	),
 	
 	array(
-		'name' 				=> __('Ninja Forms'),
+		'name' 				=> 'Ninja Forms',
 		'search' 			=> 'Ninja Forms',
 		'thumbnail' 		=> 'ninja-forms.png',
 		'description' 		=> __('Quickly create newsletter signup forms for your MailPoet mailing lists using the power and flexibility that Ninja Forms provides.'),
@@ -258,7 +258,7 @@ $available_add_ons = array(
 	),
 	
 	/*array(
-		'name' 				=> __('WangGuard: block fake signups'),
+		'name' 				=> 'WangGuard: block fake signups',
 		'search' 			=> 'WangGuard: block fake signups',
 		'thumbnail' 		=> 'wangguard.png',
 		'description' 		=> __('This plugin blocks spam signups to your site. Connect it to MailPoet with an additional add-on.'),
