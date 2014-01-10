@@ -243,7 +243,7 @@ else{
 		global $current_screen;
 
 		if($current_screen->parent_base == 'plugins'){
-			echo '<div class="error"><p>'.sprintf(__('MailPoet Add-Ons requires MailPoet. Please install and activate <a href="%s">MailPoet</a> first.'), admin_url('plugin-install.php?tab=search&type=term&s=MailPoet')).'</p></div>';
+			echo '<div class="error"><p>'.sprintf(__('MailPoet Add-On Manager requires MailPoet. Please install and activate <a href="%s">MailPoet</a> first.'), admin_url('plugin-install.php?tab=search&type=term&s=MailPoet')).'</p></div>';
 		}
 		$plugin = plugin_basename(__FILE__);
 		// Deactivate this plugin until MailPoet has been installed and activated first.
